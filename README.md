@@ -11,7 +11,7 @@
 
 ## Part-2
 * LSTM model
-* hyperparameter Tuning optimisation 
+* hyperparameter Tuning optimization 
 
 
 
